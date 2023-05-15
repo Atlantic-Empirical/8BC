@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<clsSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <FormPositionX>100</FormPositionX>
+  <FormPositionY>398</FormPositionY>
+  <FirstRun>4/13/2004 5:09:56 PM</FirstRun>
+  <AutoFixReadOnly>true</AutoFixReadOnly>
+  <Process24s>false</Process24s>
+  <DisplayProgBar>true</DisplayProgBar>
+  <MapBlackTo>0</MapBlackTo>
+  <TargetColorTable>
+    <bgB>255</bgB>
+    <bgG>255</bgG>
+    <bgR>255</bgR>
+    <bgDummy>0</bgDummy>
+    <c1_B>0</c1_B>
+    <c1_G>0</c1_G>
+    <c1_R>255</c1_R>
+    <c1_Dummy>0</c1_Dummy>
+    <c2_B>0</c2_B>
+    <c2_G>255</c2_G>
+    <c2_R>0</c2_R>
+    <c2_Dummy>0</c2_Dummy>
+    <c3_B>255</c3_B>
+    <c3_G>0</c3_G>
+    <c3_R>0</c3_R>
+    <c3_Dummy>0</c3_Dummy>
+  </TargetColorTable>
+  <PreviewWindowIsOpen>true</PreviewWindowIsOpen>
+</clsSettings>

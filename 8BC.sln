@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "8BC", "8BC\8BC.vbproj", "{46CFDC4F-A8EE-44B6-BC14-ACA53EDC7200}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "8BCInstaller", "8BCInstaller\8BCInstaller.vdproj", "{19D3063B-A512-4766-A8F2-8E2595B90676}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{46CFDC4F-A8EE-44B6-BC14-ACA53EDC7200}.Debug.ActiveCfg = Debug|.NET
+		{46CFDC4F-A8EE-44B6-BC14-ACA53EDC7200}.Debug.Build.0 = Debug|.NET
+		{46CFDC4F-A8EE-44B6-BC14-ACA53EDC7200}.Release.ActiveCfg = Release|.NET
+		{46CFDC4F-A8EE-44B6-BC14-ACA53EDC7200}.Release.Build.0 = Release|.NET
+		{19D3063B-A512-4766-A8F2-8E2595B90676}.Debug.ActiveCfg = Debug
+		{19D3063B-A512-4766-A8F2-8E2595B90676}.Release.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
